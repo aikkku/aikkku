@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://codeforces.com/profile/aikkku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aikkku" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aikkku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aikkku" height="30" width="40" /></a>
-<a href="/http://t.me/aikkku" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2201/PNG/512/telegram_logo_circle_icon_134012.png" alt="http://t.me/aikkku" height="30" width="40" /></a>
+<a href="/http://t.me/aikkku" target="blank"><img align="center" src="https://github.com/aikkku/aikkku/blob/main/icons8-telegram-app.svg" alt="http://t.me/aikkku" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
